@@ -37,7 +37,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/mx-community/Digital-Bot && cd Digital-Bot
+git clone https://github.com/mx-community/Bot-Main && cd Bot-Main
 ```
 ```bash
 yarn install && npm install
@@ -55,7 +55,7 @@ npm start
 
 
 ```bash
-git clone https://github.com/mx-community/Digital-Bot && cd Digital-Bot
+git clone https://github.com/mx-community/Bot-Main && cd Bot-Main
 ```
 ```bash
 yarn install && npm install
@@ -75,7 +75,7 @@ npm start
   <h1 align="center">📍 PROPIETARIO 📍</h1><div align="center"><table>
 <tr>
 <td align="center" width="180">
-  <img src="https://qu.ax/shFmH.jpg" width="150" style="border-radius: 20px;" alt="mx-community Avatar">
+  <img src="https://files.catbox.moe/4zk1fb.jpg" width="150" style="border-radius: 20px;" alt="mx-community Avatar">
 </td>
 <td align="left" style="padding-left: 20px; vertical-align: middle;"><h2> • <b>MX-COMMUNITY</b> • </h2><p><a href="https://github.com/mx-community" target="_blank">
 <b>ghttps://mx-website.vercel.app</b>
